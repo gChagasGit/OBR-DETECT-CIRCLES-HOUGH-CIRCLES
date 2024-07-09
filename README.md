@@ -71,4 +71,4 @@ Este comando instalará o NumPy e o OpenCV, que são os pacotes adicionais neces
 
 ## Contato
 
-Para mais informações ou para reportar problemas, entre em contato pelo email: chagasgustavo10@email.com.
+Para mais informações ou para reportar problemas, entre em contato pelo email: chagasgustavo10@gmail.com.
