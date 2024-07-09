@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <project>
+      <id>148727</id>
+      <name>Rotulos_Esferas</name>
+      <bugtracker></bugtracker>
+      <created>2024-06-10 17:59:31.275591+00:00</created>
+      <updated>2024-06-17 16:52:51.187497+00:00</updated>
+      <tasks>
+        <task>
+          <id>731333</id>
+          <name>Esferas_parte1</name>
+          <size>119</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-06-10 18:00:18.637320+00:00</created>
+          <updated>2024-06-17 16:53:04.580212+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>118</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>944017</id>
+              <start>0</start>
+              <stop>118</stop>
+              <url>https://app.cvat.ai/api/jobs/942189</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>-</username>
+            <email>-</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>743898</id>
+          <name>esferas_duas_labels</name>
+          <size>100</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-06-17 16:31:27.144686+00:00</created>
+          <updated>2024-06-17 16:53:50.073860+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>99</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>961537</id>
+              <start>0</start>
+              <stop>99</stop>
+              <url>-</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>-</username>
+            <email<name /></email>
+          </owner>
+          <assignee></assignee>
+        </task<name />
+      </tasks>
+      <subsets>default</subsets>
+      <owner>
+        <username>-</username>
+        <email>-</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>esfera</name>
+          <color>#6b425b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>esfera2</name>
+          <color>#1fbbbd</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </project>
+    <dumped>2024-06-17 16:54:27.895236+00:00</dumped>
+  </meta>
+  <image id="0" name="IMG_20230331_150841_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="638.98" ytl="312.48" xbr="718.75" ybr="395.52" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="290.40" ytl="323.40" xbr="434.64" ybr="473.11" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="872.83" ytl="309.20" xbr="949.32" ybr="382.40" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="IMG_20230331_150846_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="357.28" xbr="301.33" ybr="663.24" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="700.18" ytl="316.85" xbr="821.47" ybr="438.14" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1080.45" ytl="312.48" xbr="1160.00" ybr="414.10" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="IMG_20230331_150851_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="825.84" ytl="390.06" xbr="1150.38" ybr="703.67" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="IMG_20230331_150910_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="902.33" ytl="477.48" xbr="1017.07" ybr="585.66" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="294.77" ytl="496.06" xbr="458.68" ybr="655.59" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="440.11" ytl="606.42" xbr="985.38" ybr="868.68" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="IMG_20230331_150922_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="830.21" ytl="393.34" xbr="993.03" ybr="552.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="122.12" ytl="415.19" xbr="369.08" ybr="652.32" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="IMG_20230331_150933_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="66.39" ytl="348.54" xbr="234.67" ybr="511.35" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="IMG_20230331_150945_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="39.08" ytl="326.68" xbr="142.88" ybr="425.03" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="408.42" ytl="341.98" xbr="560.31" ybr="497.15" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1110.00" ytl="432.70" xbr="1160.00" ybr="625.00" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="IMG_20230331_151114_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="67.49" ytl="390.06" xbr="168.02" ybr="477.48" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="665.21" ytl="403.17" xbr="837.86" ybr="568.18" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="774.48" ytl="383.50" xbr="850.97" ybr="470.92" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="375.64" ytl="383.50" xbr="446.66" ybr="453.44" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="IMG_20230331_151124_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="439.01" ytl="379.13" xbr="609.48" ybr="549.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="769.02" ytl="361.65" xbr="860.81" ybr="446.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="422.62" ytl="360.56" xbr="508.95" ybr="442.51" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="IMG_20230331_151134_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="411.92" xbr="106.82" ybr="535.39" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1112.14" ytl="410.82" xbr="1160.00" ybr="548.51" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="479.66" xbr="70.76" ybr="730.99" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="814.91" ytl="392.25" xbr="891.41" ybr="466.55" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="573.42" ytl="396.62" xbr="659.75" ybr="488.41" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="IMG_20230331_151157_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="551.57" ytl="363.84" xbr="636.80" ybr="446.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="840.05" ytl="361.65" xbr="916.54" ybr="433.77" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="166.92" ytl="379.13" xbr="339.58" ybr="549.60" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="IMG_20230331_151205_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="336.30" ytl="359.46" xbr="410.60" ybr="431.58" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="5.20" ytl="364.93" xbr="110.10" ybr="456.72" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1126.34" ytl="373.67" xbr="1160.00" ybr="466.55" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="633.52" ytl="379.13" xbr="813.82" ybr="556.16" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="735.15" ytl="362.74" xbr="816.01" ybr="434.86" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="IMG_20230331_151215_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="783.23" ytl="452.35" xbr="1147.11" ybr="799.84" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="545.01" ytl="375.86" xbr="606.20" ybr="438.14" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="823.66" ytl="379.13" xbr="906.70" ybr="454.53" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="847.70" ytl="396.62" xbr="989.75" ybr="516.82" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="136.33" ytl="379.13" xbr="207.36" ybr="437.05" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="110.10" ytl="387.88" xbr="256.53" ybr="524.47" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="IMG_20230331_151219_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="1093.56" ytl="428.31" xbr="1160.00" ybr="510.26" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1115.42" ytl="468.74" xbr="1160.00" ybr="576.92" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="376.73" ytl="435.96" xbr="503.49" ybr="562.70" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="774.48" ytl="420.66" xbr="843.33" ybr="490.59" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="387.66" ytl="422.84" xbr="454.31" ybr="488.41" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1107.77" ytl="564.90" xbr="1160.00" ybr="809.67" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="IMG_20230331_151237_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="859.72" ytl="332.15" xbr="940.58" ybr="409.73" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="196.43" ytl="352.91" xbr="358.15" ybr="514.63" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="571.24" ytl="334.33" xbr="657.56" ybr="422.84" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="IMG_20230331_151314_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="64.21" ytl="355.09" xbr="168.02" ybr="445.79" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="737.33" ytl="360.56" xbr="828.03" ybr="451.25" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="788.69" ytl="383.50" xbr="952.60" ybr="534.30" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="466.33" ytl="352.91" xbr="528.62" ybr="419.56" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="IMG_20230331_151327_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="217.19" ytl="388.97" xbr="294.77" ybr="464.37" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="981.01" ytl="396.62" xbr="1084.82" ybr="492.78" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="619.32" ytl="392.25" xbr="701.27" ybr="477.48" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="512.23" ytl="407.54" xbr="681.60" ybr="576.92" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="IMG_20230331_151340_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="609.48" ytl="438.14" xbr="740.61" ybr="573.64" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="28.15" ytl="472.02" xbr="286.03" ybr="718.97" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="IMG_20230331_151357_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="187.69" ytl="405.36" xbr="290.40" ybr="506.98" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="741.70" ytl="410.82" xbr="838.95" ybr="508.08" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="IMG_20230331_151411_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="218.28" ytl="376.95" xbr="377.82" ybr="535.39" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="820.38" ytl="358.37" xbr="891.41" ybr="427.21" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="546.10" ytl="358.37" xbr="630.24" ybr="441.42" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="IMG_20230331_151418_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="488.19" ytl="324.50" xbr="551.57" ybr="391.15" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="207.36" ytl="328.87" xbr="295.87" ybr="413.01" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="881.57" ytl="327.77" xbr="964.62" ybr="408.64" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="778.85" ytl="340.89" xbr="946.04" ybr="501.52" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="IMG_20230331_151423_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="417.16" ytl="385.69" xbr="571.24" ybr="536.49" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="104.64" ytl="372.58" xbr="183.32" ybr="445.79" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="836.77" ytl="373.67" xbr="929.65" ybr="461.09" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="511.14" ytl="373.67" xbr="589.81" ybr="449.07" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="IMG_20230331_151428_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="613.85" ytl="402.08" xbr="693.62" ybr="480.76" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="185.50" ytl="415.19" xbr="349.41" ybr="572.55" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="283.85" ytl="397.71" xbr="369.08" ybr="479.66" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="IMG_20230331_151712_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="777.76" ytl="335.42" xbr="840.05" ybr="398.80" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="855.35" ytl="332.15" xbr="902.33" ybr="378.04" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="831.31" ytl="348.54" xbr="975.55" ybr="492.78" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="104.64" ytl="341.98" xbr="209.54" ybr="446.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="565.77" ytl="339.79" xbr="656.47" ybr="433.77" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="IMG_20230331_151741_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="752.63" ytl="279.69" xbr="840.05" ybr="367.11" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="383.29" ytl="282.97" xbr="478.35" ybr="376.95" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1049.85" ytl="276.42" xbr="1130.71" ybr="345.26" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="470.70" ytl="277.51" xbr="540.64" ybr="346.35" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="IMG_20230331_151745_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="25.96" ytl="292.81" xbr="112.29" ybr="373.67" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="750.44" ytl="325.59" xbr="915.45" ybr="489.50" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="899.06" ytl="302.64" xbr="1012.70" ybr="409.73" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="610.57" ytl="289.53" xbr="676.10" ybr="354.00" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="349.41" ytl="297.18" xbr="430.27" ybr="380.23" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="307.01" xbr="32.52" ybr="410.82" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="IMG_20230331_151752_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="366.89" ytl="381.32" xbr="468.52" ybr="485.13" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="217.19" ytl="413.01" xbr="396.40" ybr="583.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="32.52" ytl="373.67" xbr="115.57" ybr="447.98" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="IMG_20230331_151758_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="879.39" ytl="282.97" xbr="978.82" ybr="379.13" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="590.90" ytl="277.51" xbr="660.84" ybr="354.00" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="507.86" ytl="287.34" xbr="602.92" ybr="388.97" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="IMG_20230331_151806_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="908.89" ytl="400.99" xbr="1003.96" ybr="493.87" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="258.71" ytl="390.06" xbr="324.28" ybr="455.62" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="316.63" ytl="415.19" xbr="480.50" ybr="580.20" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="475.08" ytl="395.52" xbr="549.38" ybr="474.20" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="IMG_20230331_151815_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="509.17" xbr="93.71" ybr="738.64" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="926.37" ytl="502.61" xbr="1160.00" ybr="816.23" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="624.78" ytl="452.35" xbr="724.22" ybr="552.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="531.90" ytl="444.70" xbr="595.28" ybr="513.54" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="296.96" ytl="447.98" xbr="381.10" ybr="534.30" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="IMG_20230331_151822_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="189.87" ytl="385.69" xbr="274.01" ybr="466.55" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="938.39" ytl="430.49" xbr="1160.00" ybr="651.22" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="788.69" ytl="383.50" xbr="862.99" ybr="451.25" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="494.74" ytl="388.97" xbr="582.16" ybr="480.76" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="55.47" ytl="394.43" xbr="177.85" ybr="505.89" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="IMG_20230331_152017_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="218.28" ytl="378.04" xbr="336.30" ybr="492.78" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="979.92" ytl="390.06" xbr="1147.11" ybr="541.95" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="IMG_20230331_152028_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="365.80" ytl="366.02" xbr="503.49" ybr="506.98" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="IMG_20230331_152037_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="447.76" ytl="293.90" xbr="563.59" ybr="411.92" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="486.00" ytl="402.08" xbr="977.73" ybr="850.10" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="IMG_20230331_152050_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="303.52" ytl="340.89" xbr="452.13" ybr="489.50" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="742.79" ytl="373.67" xbr="1019.26" ybr="635.93" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="IMG_20230331_152109_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="949.32" ytl="373.67" xbr="1065.15" ybr="489.50" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="559.22" ytl="380.23" xbr="660.84" ybr="480.76" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="565.77" ytl="423.94" xbr="884.85" ybr="743.01" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="IMG_20230331_152118_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="962.43" ytl="322.31" xbr="1074.98" ybr="420.66" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="86.06" ytl="355.09" xbr="318.81" ybr="583.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="990.84" ytl="364.93" xbr="1160.00" ybr="620.63" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="IMG_20230331_152123_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="884.85" ytl="386.78" xbr="990.84" ybr="481.85" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="310.07" ytl="415.19" xbr="530.80" ybr="631.55" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="328.65" ytl="380.23" xbr="422.60" ybr="462.20" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="IMG_20230331_152139_2CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="961.34" ytl="361.65" xbr="1079.36" ybr="463.27" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="IMG_20230331_152252_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="710.01" ytl="339.79" xbr="822.56" ybr="453.44" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="IMG_20230331_152257_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="610.57" ytl="314.66" xbr="906.70" ybr="612.98" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="IMG_20230331_152306_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="422.62" ytl="434.86" xbr="702.36" ybr="724.44" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="IMG_20230331_152315_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="491.68" xbr="284.94" ybr="868.70" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="918.72" ytl="376.95" xbr="1091.38" ybr="537.58" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="IMG_20230331_152320_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="771.21" ytl="340.89" xbr="912.17" ybr="477.48" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1131.81" ytl="329.96" xbr="1160.00" ybr="404.27" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="514.41" ytl="507.00" xbr="1160.00" ybr="872.00" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="IMG_20230331_152345_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="318.81" ytl="367.11" xbr="383.29" ybr="427.20" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="112.29" ytl="437.05" xbr="435.74" ybr="765.96" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="883.80" ytl="373.70" xbr="962.43" ybr="443.60" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="IMG_20230331_152355_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="136.33" ytl="418.47" xbr="238.00" ybr="514.63" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="IMG_20230331_152445_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="1128.53" ytl="433.77" xbr="1160.00" ybr="561.62" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="506.76" ytl="390.06" xbr="608.39" ybr="493.87" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="849.88" ytl="381.32" xbr="918.72" ybr="444.70" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="IMG_20230331_152547_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="725.31" ytl="355.09" xbr="825.84" ybr="456.72" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1095.75" ytl="357.28" xbr="1160.00" ybr="465.46" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="IMG_20230331_152635_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="968.99" ytl="381.32" xbr="1091.38" ybr="493.87" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="821.47" ytl="363.84" xbr="896.87" ybr="432.68" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="562.49" ytl="369.30" xbr="644.45" ybr="449.07" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="441.20" ytl="385.69" xbr="621.50" ybr="571.45" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="IMG_20230331_152641_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="812.73" ytl="382.41" xbr="899.06" ybr="469.83" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="394.43" xbr="47.82" ybr="504.80" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="329.74" ytl="379.13" xbr="410.60" ybr="458.90" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="455.41" ytl="397.71" xbr="589.81" ybr="539.76" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="IMG_20230331_152657_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="675.05" ytl="384.60" xbr="799.62" ybr="511.35" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="485.13" xbr="399.68" ybr="872.00" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="IMG_20230331_152702_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="1.92" ytl="502.61" xbr="385.47" ybr="872.00" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="681.60" ytl="393.34" xbr="814.91" ybr="527.74" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="IMG_20230331_152716_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="419.30" ytl="411.90" xbr="585.44" ybr="581.30" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="IMG_20230331_152726_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="610.57" ytl="314.66" xbr="681.60" ybr="382.40" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1002.86" ytl="323.40" xbr="1120.88" ybr="429.40" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="857.53" ytl="312.48" xbr="927.47" ybr="376.95" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="518.78" ytl="331.05" xbr="687.07" ybr="494.96" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="IMG_20230331_152741_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="407.33" ytl="379.13" xbr="574.51" ybr="547.41" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="IMG_20230331_152955_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="103.50" ytl="464.40" xbr="225.90" ybr="582.40" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="IMG_20230331_153007_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="1106.67" ytl="390.06" xbr="1160.00" ybr="524.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="481.63" ytl="376.95" xbr="602.92" ybr="500.43" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="IMG_20230331_153048_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="941.67" ytl="311.38" xbr="1018.16" ybr="381.32" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="624.78" ytl="308.11" xbr="707.83" ybr="370.39" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="585.44" ytl="333.24" xbr="735.15" ybr="482.94" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="IMG_20230331_153100_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="383.50" xbr="152.72" ybr="670.89" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="IMG_20230331_153111_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="230.30" ytl="419.56" xbr="376.73" ybr="568.18" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="930.74" ytl="454.53" xbr="1160.00" ybr="729.90" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="IMG_20230331_153127_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="622.59" ytl="446.88" xbr="711.11" ybr="537.58" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="883.76" ytl="487.31" xbr="1124.16" ybr="716.79" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="706.73" ytl="476.39" xbr="902.33" ybr="677.45" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="562.49" ytl="443.60" xbr="641.17" ybr="525.56" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="IMG_20230331_153131_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="622.59" ytl="428.31" xbr="712.20" ybr="520.10" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="558.12" ytl="423.94" xbr="637.89" ybr="510.26" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="705.64" ytl="457.81" xbr="905.61" ybr="657.78" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="881.57" ytl="470.92" xbr="1125.25" ybr="704.77" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="IMG_20230331_153141_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="378.04" xbr="205.17" ybr="590.03" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="IMG_20230331_153342_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="593.09" ytl="334.33" xbr="657.56" ybr="396.62" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="864.09" ytl="337.61" xbr="950.41" ybr="429.40" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="IMG_20230331_153400_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="812.73" ytl="450.16" xbr="1005.05" ybr="633.74" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="IMG_20230331_153405_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="414.10" xbr="172.39" ybr="597.68" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="166.92" ytl="378.04" xbr="237.95" ybr="441.42" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1007.24" ytl="421.75" xbr="1160.00" ybr="618.44" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="IMG_20230331_153408_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="429.40" xbr="181.13" ybr="629.37" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1009.42" ytl="444.70" xbr="1160.00" ybr="647.95" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="175.67" ytl="402.08" xbr="246.69" ybr="467.64" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="IMG_20230331_153425_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="372.36" ytl="370.39" xbr="456.50" ybr="453.44" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="411.70" ytl="366.02" xbr="481.63" ybr="444.70" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="79.51" ytl="366.02" xbr="176.76" ybr="464.37" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="IMG_20230331_153430_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="691.44" ytl="402.08" xbr="850.97" ybr="564.90" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="833.49" ytl="381.32" xbr="928.56" ybr="476.39" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="899.06" ytl="378.04" xbr="987.57" ybr="474.20" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="IMG_20230331_153500_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="177.85" ytl="391.15" xbr="363.62" ybr="563.80" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="903.43" ytl="355.09" xbr="985.38" ybr="428.31" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="386.78" xbr="168.02" ybr="549.60" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="IMG_20230331_153540_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="704.55" ytl="396.62" xbr="801.80" ybr="490.59" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="961.34" ytl="387.88" xbr="1029.09" ybr="452.35" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="IMG_20230331_153728_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="1038.92" ytl="326.68" xbr="1146.01" ybr="429.40" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="374.59" ytl="324.50" xbr="469.61" ybr="422.84" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="604.02" ytl="324.50" xbr="705.64" ybr="428.31" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="777.76" ytl="315.75" xbr="864.09" ybr="404.27" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="IMG_20230331_153745_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="878.29" ytl="402.08" xbr="1137.27" ybr="650.13" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="240.14" ytl="362.74" xbr="342.85" ybr="468.74" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="753.72" ytl="367.11" xbr="894.68" ybr="508.08" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="352.69" ytl="370.39" xbr="480.54" ybr="503.70" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="IMG_20230331_153758_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="208.45" ytl="466.55" xbr="389.84" ybr="646.85" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="652.10" ytl="472.02" xbr="844.42" ybr="664.34" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="940.58" ytl="455.62" xbr="1085.91" ybr="591.12" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="IMG_20230331_153813_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="955.88" ytl="332.15" xbr="1028.00" ybr="403.17" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="814.90" ytl="335.42" xbr="899.06" ybr="423.94" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="759.19" ytl="328.87" xbr="831.31" ybr="399.90" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="683.79" ytl="340.89" xbr="786.50" ybr="449.07" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="IMG_20230331_153847_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="230.30" ytl="395.52" xbr="300.24" ybr="467.64" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="893.59" ytl="404.27" xbr="1011.61" ybr="520.10" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="156.00" ytl="403.17" xbr="267.46" ybr="513.54" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="590.90" ytl="404.27" xbr="664.12" ybr="478.57" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="417.16" ytl="395.52" xbr="480.54" ybr="457.81" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="IMG_20230331_153857_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="714.38" ytl="418.47" xbr="813.82" ybr="519.00" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="776.67" ytl="410.82" xbr="837.86" ybr="473.11" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="963.53" ytl="407.54" xbr="1032.37" ybr="472.02" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="IMG_20230331_153902_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="95.90" ytl="396.62" xbr="188.78" ybr="486.22" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="421.53" ytl="399.90" xbr="534.08" ybr="512.45" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="870.64" ytl="398.80" xbr="966.80" ybr="493.87" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="IMG_20230331_153926_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="643.36" ytl="340.89" xbr="715.48" ybr="418.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="936.21" ytl="346.35" xbr="1059.69" ybr="464.37" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="514.41" ytl="336.52" xbr="585.44" ybr="406.45" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="212.82" ytl="346.35" xbr="314.44" ybr="445.79" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="IMG_20230331_154040_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="402.08" xbr="193.15" ybr="662.15" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="805.08" ytl="366.02" xbr="883.76" ybr="443.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="387.66" ytl="368.21" xbr="481.63" ybr="463.27" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="667.40" ytl="359.46" xbr="739.52" ybr="429.40" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="IMG_20230331_154123_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="605.10" ytl="388.97" xbr="703.46" ybr="488.40" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1107.77" ytl="397.71" xbr="1160.00" ybr="487.30" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="212.82" ytl="432.68" xbr="452.13" ybr="671.99" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="IMG_20230331_154146_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="188.78" ytl="456.72" xbr="287.13" ybr="558.34" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="653.19" ytl="458.90" xbr="730.77" ybr="536.49" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="IMG_20230331_154155_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="288.22" ytl="364.93" xbr="385.47" ybr="461.09" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="769.02" ytl="367.11" xbr="854.25" ybr="447.98" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="IMG_20230331_154223_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="695.81" ytl="398.80" xbr="772.30" ybr="474.20" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1095.75" ytl="403.17" xbr="1160.00" ybr="511.35" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="396.40" ytl="387.88" xbr="459.78" ybr="455.62" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="IMG_20230331_154305_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="911.08" ytl="393.34" xbr="1030.18" ybr="502.61" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="523.16" ytl="381.32" xbr="593.09" ybr="450.16" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="135.24" ytl="387.88" xbr="276.20" ybr="513.54" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="IMG_20230331_154311_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="724.22" ytl="362.74" xbr="807.27" ybr="442.51" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="445.57" ytl="368.21" xbr="555.94" ybr="479.66" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="16.13" ytl="362.74" xbr="112.29" ybr="444.70" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="IMG_20230331_154332_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="62.02" ytl="404.27" xbr="232.49" ybr="564.90" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="492.56" ytl="430.49" xbr="749.35" ybr="682.91" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="690.34" ytl="405.36" xbr="841.14" ybr="548.51" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="IMG_20230331_154541_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="321.00" ytl="361.65" xbr="458.68" ybr="499.33" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="719.85" ytl="351.81" xbr="803.99" ybr="432.68" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="IMG_20230331_154557_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="15.04" ytl="411.92" xbr="109.01" ybr="496.06" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="702.36" ytl="431.58" xbr="831.31" ybr="556.16" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="672.86" ytl="416.29" xbr="757.00" ybr="501.52" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="480.54" ytl="409.73" xbr="537.36" ybr="465.46" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="429.18" ytl="422.84" xbr="536.27" ybr="525.56" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="IMG_20230331_154626_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="740.61" ytl="428.31" xbr="812.73" ybr="497.15" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="447.98" xbr="60.93" ybr="583.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="335.21" ytl="429.40" xbr="413.88" ybr="503.70" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="953.69" ytl="440.33" xbr="1076.08" ybr="549.60" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="IMG_20230331_154633_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="418.25" ytl="425.03" xbr="537.36" ybr="544.14" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="769.02" ytl="414.10" xbr="843.33" ybr="489.50" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="313.35" ytl="425.03" xbr="424.81" ybr="536.49" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="IMG_20230331_154647_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="522.06" ytl="432.68" xbr="632.43" ybr="543.04" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="328.65" ytl="421.75" xbr="400.77" ybr="490.59" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="751.54" ytl="438.14" xbr="862.99" ybr="547.41" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="IMG_20230331_154654_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="352.69" ytl="345.26" xbr="471.80" ybr="464.37" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="730.77" ytl="334.33" xbr="808.36" ybr="410.82" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="247.79" ytl="343.07" xbr="364.71" ybr="457.81" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="IMG_20230331_154710_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="363.62" ytl="369.30" xbr="501.30" ybr="502.61" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="192.06" ytl="376.95" xbr="396.40" ybr="570.36" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="IMG_20230331_154723_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.83" ytl="395.52" xbr="182.22" ybr="559.43" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="99.18" ytl="384.60" xbr="221.56" ybr="521.19" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1094.65" ytl="423.94" xbr="1160.00" ybr="605.33" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="IMG_20230331_154924_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="13.94" ytl="441.42" xbr="440.11" ybr="851.19" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="231.40" ytl="368.21" xbr="359.25" ybr="494.96" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="IMG_20230331_155000_2CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="182.22" ytl="298.27" xbr="303.52" ybr="418.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="778.82" ytl="290.62" xbr="885.94" ybr="395.49" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="946.04" ytl="286.25" xbr="1013.79" ybr="356.19" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="IMG_20230331_155003_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="953.69" ytl="290.62" xbr="1022.53" ybr="358.37" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="175.67" ytl="303.73" xbr="295.87" ybr="421.75" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="784.32" ytl="299.36" xbr="891.41" ybr="404.27" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="IMG_20230331_155008_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="738.42" ytl="317.94" xbr="831.31" ybr="408.64" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="197.48" ytl="316.85" xbr="272.92" ybr="390.06" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="334.33" xbr="68.58" ybr="476.39" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="431.37" ytl="317.94" xbr="490.37" ybr="380.23" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="IMG_20230331_155024_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="864.09" ytl="391.15" xbr="1160.00" ybr="684.01" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="57.65" ytl="362.74" xbr="210.63" ybr="505.89" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="IMG_20230331_155034_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="610.57" ytl="357.28" xbr="696.90" ybr="443.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="328.65" ytl="362.74" xbr="422.62" ybr="458.90" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="IMG_20230331_155050_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="445.79" xbr="89.34" ybr="598.77" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="953.69" ytl="444.70" xbr="1132.90" ybr="596.59" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="IMG_20230331_155103_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="94.80" ytl="441.42" xbr="351.60" ybr="679.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="981.01" ytl="422.84" xbr="1117.60" ybr="539.76" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="IMG_20230331_155256_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="28.15" ytl="404.27" xbr="241.20" ybr="606.42" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="717.66" ytl="383.50" xbr="821.47" ybr="484.04" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="IMG_20230331_155320_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="477.30" ytl="393.34" xbr="565.77" ybr="482.90" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="661.93" ytl="445.79" xbr="1011.61" ybr="781.26" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1038.92" ytl="406.45" xbr="1160.00" ybr="543.04" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="IMG_20230331_155324_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="1038.92" ytl="403.17" xbr="1160.00" ybr="549.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="477.26" ytl="387.88" xbr="571.24" ybr="486.22" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="660.84" ytl="443.60" xbr="1015.98" ybr="779.07" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="IMG_20230331_155338_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="847.70" ytl="479.66" xbr="984.29" ybr="612.98" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="554.80" ytl="536.50" xbr="907.80" ybr="872.00" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="IMG_20230331_155429_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="1002.86" ytl="393.34" xbr="1160.00" ybr="545.23" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="751.54" ytl="369.30" xbr="829.12" ybr="446.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="478.35" ytl="373.67" xbr="579.98" ybr="475.29" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="IMG_20230331_155445_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="618.22" ytl="356.19" xbr="706.73" ybr="443.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="87.16" ytl="368.21" xbr="244.51" ybr="515.72" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="IMG_20230331_155452_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="87.16" ytl="382.41" xbr="237.95" ybr="533.21" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="624.78" ytl="372.58" xbr="717.66" ybr="462.18" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="IMG_20230331_155503_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="0.00" ytl="359.46" xbr="115.57" ybr="482.94" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="656.47" ytl="358.37" xbr="767.93" ybr="470.92" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="631.30" ytl="444.70" xbr="1158.03" ybr="872.00" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="IMG_20230331_155750_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="904.52" ytl="536.49" xbr="1156.94" ybr="775.79" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="546.10" ytl="506.98" xbr="653.19" ybr="612.98" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="IMG_20230331_155806_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="454.53" xbr="122.12" ybr="689.47" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="942.80" ytl="432.70" xbr="1083.73" ybr="556.16" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="IMG_20230331_155949_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="78.40" ytl="436.00" xbr="292.60" ybr="643.60" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="467.40" ytl="403.20" xbr="545.00" ybr="479.70" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="IMG_20230331_160042_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="506.76" ytl="378.04" xbr="578.88" ybr="446.88" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="740.61" ytl="384.60" xbr="829.12" ybr="465.46" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1060.78" ytl="391.15" xbr="1160.00" ybr="508.08" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="221.56" ytl="379.13" xbr="282.75" ybr="446.88" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="IMG_20230331_160105_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="127.59" ytl="419.56" xbr="266.36" ybr="555.06" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="577.79" ytl="413.01" xbr="680.51" ybr="517.91" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="IMG_20230331_160117_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="444.48" ytl="434.86" xbr="542.82" ybr="532.12" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="145.07" ytl="431.58" xbr="225.93" ybr="509.17" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="710.01" ytl="449.07" xbr="847.70" ybr="580.20" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="IMG_20230331_160303_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="878.29" ytl="328.87" xbr="973.36" ybr="425.03" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="294.77" ytl="331.05" xbr="378.91" ybr="414.10" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="967.90" ytl="325.59" xbr="1035.65" ybr="391.15" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="IMG_20230331_160313_9CS.jpg" subset="default" task_id="731333" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="371.27" ytl="458.90" xbr="432.46" ybr="519.00" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="577.79" ytl="462.18" xbr="685.97" ybr="572.55" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1081.54" ytl="468.74" xbr="1160.00" ybr="564.90" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1.92" ytl="498.24" xbr="232.49" ybr="723.34" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="IMG_20230331_150955_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="448.60" ytl="370.70" xbr="600.50" ybr="527.50" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="IMG_20230331_151002_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="395.63" xbr="58.25" ybr="557.29" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="969.50" ytl="406.46" xbr="1160.00" ybr="661.36" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="IMG_20230331_151017_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="273.86" ytl="393.56" xbr="394.70" ybr="506.23" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="969.50" ytl="419.69" xbr="1160.00" ybr="671.16" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="IMG_20230331_151026_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="229.77" ytl="404.99" xbr="335.91" ybr="512.76" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="471.45" ytl="422.95" xbr="636.38" ybr="592.78" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="833.97" ytl="400.09" xbr="936.84" ybr="498.07" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="IMG_20230331_151041_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="533.50" ytl="351.10" xbr="616.78" ybr="440.91" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="115.46" ytl="375.60" xbr="295.09" ybr="547.06" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="825.80" ytl="351.10" xbr="905.82" ybr="424.58" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="IMG_20230331_151058_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="747.42" ytl="393.56" xbr="976.03" ybr="615.64" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="IMG_20230331_151109_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="556.36" ytl="396.82" xbr="638.01" ybr="478.47" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="832.33" ytl="395.19" xbr="905.82" ybr="463.78" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="200.38" ytl="413.15" xbr="358.78" ybr="571.55" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="IMG_20230331_151247_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="949.91" ytl="409.89" xbr="1124.60" ybr="576.50" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="422.30" ytl="386.54" xbr="500.68" ybr="458.39" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="750.69" ytl="391.92" xbr="835.60" ybr="468.67" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="0.00" ytl="412.66" xbr="151.23" ybr="613.52" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="IMG_20230331_151258_672.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="477.82" ytl="356.00" xbr="616.80" ybr="496.43" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="115.46" ytl="326.60" xbr="188.95" ybr="398.46" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="420.83" ytl="333.14" xbr="505.74" ybr="421.32" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="IMG_20230331_151259_895.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="117.10" ytl="324.97" xbr="190.58" ybr="391.92" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="419.20" ytl="333.14" xbr="505.74" ybr="418.05" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="476.30" ytl="352.70" xbr="616.78" ybr="493.17" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="IMG_20230331_151302_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="481.25" ytl="349.47" xbr="572.69" ybr="440.91" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="536.61" ytl="368.90" xbr="680.50" ybr="512.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="188.95" ytl="342.94" xbr="257.50" ybr="409.89" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="IMG_20230331_151307_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="468.51" ytl="362.53" xbr="530.56" ybr="424.60" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="70.07" ytl="364.20" xbr="166.41" ybr="452.34" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="790.20" ytl="391.90" xbr="947.00" ybr="543.80" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="736.32" ytl="372.33" xbr="829.40" ybr="458.90" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="IMG_20230331_151310_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="465.24" ytl="362.53" xbr="527.30" ybr="426.22" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="70.07" ytl="365.80" xbr="166.41" ybr="453.98" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="791.84" ytl="391.90" xbr="945.34" ybr="543.79" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="737.95" ytl="372.33" xbr="827.76" ybr="460.51" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="IMG_20230331_151311_792.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="793.47" ytl="388.70" xbr="946.97" ybr="535.63" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="70.07" ytl="362.53" xbr="166.41" ybr="449.08" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="466.88" ytl="359.30" xbr="527.30" ybr="421.32" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="737.95" ytl="369.06" xbr="827.80" ybr="455.61" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="IMG_20230331_151452_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="958.40" ytl="339.67" xbr="1051.48" ybr="432.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="507.70" ytl="341.30" xbr="573.02" ybr="408.25" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="IMG_20230331_151456_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="677.53" ytl="318.44" xbr="739.58" ybr="367.43" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="960.03" ytl="324.97" xbr="1056.38" ybr="416.42" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="444.02" ytl="331.51" xbr="522.40" ybr="408.25" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="IMG_20230331_151508_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="504.44" ytl="427.85" xbr="582.82" ybr="511.13" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="656.30" ytl="426.22" xbr="716.72" ybr="486.64" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="156.62" ytl="419.69" xbr="235.00" ybr="467.04" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="IMG_20230331_151616_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="383.60" ytl="400.09" xbr="475.04" ybr="491.54" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1043.30" ytl="390.29" xbr="1098.80" ybr="439.20" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="981.26" ytl="393.56" xbr="1048.20" ybr="458.90" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="801.63" ytl="403.36" xbr="891.45" ybr="488.27" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="IMG_20230331_151625_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="610.60" ytl="356.00" xbr="682.40" ybr="427.85" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="57.00" ytl="351.10" xbr="110.90" ybr="400.09" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="172.95" ytl="367.43" xbr="313.38" ybr="498.07" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1.48" ytl="357.63" xbr="63.50" ybr="424.58" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="IMG_20230331_151629_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="117.40" ytl="380.50" xbr="176.21" ybr="429.48" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="664.47" ytl="387.03" xbr="737.90" ybr="460.50" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="61.90" ytl="388.66" xbr="133.80" ybr="453.98" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="233.36" ytl="400.09" xbr="370.50" ybr="527.50" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="IMG_20230331_151701_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="688.96" ytl="431.12" xbr="834.29" ybr="578.08" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="929.01" ytl="419.69" xbr="1048.21" ybr="525.83" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="117.40" ytl="419.69" xbr="225.20" ybr="525.80" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="680.79" ytl="406.62" xbr="741.20" ybr="468.67" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="IMG_20230331_151826_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="file" occluded="0" xtl="1.16" ytl="422.95" xbr="40.35" ybr="504.60" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="293.46" ytl="424.58" xbr="384.90" ybr="514.40" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="585.76" ytl="421.30" xbr="646.20" ybr="481.74" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="713.13" ytl="460.50" xbr="900.92" ybr="645.03" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="889.49" ytl="431.12" xbr="1000.53" ybr="542.16" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="IMG_20230331_151844_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="513.91" ytl="449.08" xbr="641.30" ybr="574.80" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="IMG_20230331_151859_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="486.15" ytl="396.82" xbr="700.06" ybr="618.91" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="455.12" ytl="367.40" xbr="559.63" ybr="475.20" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="370.70" xbr="123.63" ybr="517.66" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="IMG_20230331_151911_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="1049.52" ytl="409.89" xbr="1129.53" ybr="480.10" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="445.32" ytl="408.25" xbr="512.30" ybr="478.47" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="340.81" ytl="416.42" xbr="443.69" ybr="519.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="742.52" ytl="413.20" xbr="835.60" ybr="502.97" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="IMG_20230331_151921_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="1046.25" ytl="362.53" xbr="1160.00" ybr="470.31" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="476.35" ytl="356.00" xbr="558.00" ybr="434.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="86.07" ytl="360.90" xbr="193.85" ybr="460.51" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="729.46" ytl="351.10" xbr="793.14" ybr="411.52" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="904.18" ytl="388.66" xbr="1080.54" ybr="548.69" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="182.42" ytl="352.73" xbr="255.90" ybr="424.58" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="IMG_20230331_152001_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="948.27" ytl="458.88" xbr="1070.75" ybr="568.28" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="193.80" ytl="457.20" xbr="322.85" ybr="587.90" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="IMG_20230331_152009_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="389.80" ytl="393.56" xbr="492.68" ybr="494.80" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="540.03" ytl="409.89" xbr="708.23" ybr="582.98" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="IMG_20230331_152140_395.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="964.60" ytl="362.53" xbr="1075.64" ybr="470.31" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="IMG_20230331_152142_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="985.83" ytl="375.60" xbr="1118.10" ybr="486.64" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="IMG_20230331_152149_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="422.46" ytl="385.39" xbr="518.70" ybr="481.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="905.80" ytl="380.49" xbr="1007.06" ybr="476.80" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="IMG_20230331_152156_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="146.49" ytl="369.06" xbr="368.57" ybr="584.61" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="329.38" ytl="336.40" xbr="433.89" ybr="437.65" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="IMG_20230331_152216_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="1046.25" ytl="401.70" xbr="1160.00" ybr="514.40" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="376.74" ytl="388.70" xbr="445.30" ybr="457.24" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="398.46" xbr="141.59" ybr="534.00" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="IMG_20230331_152239_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="463.29" ytl="351.10" xbr="536.77" ybr="421.32" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="904.20" ytl="351.10" xbr="997.26" ybr="440.91" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="IMG_20230331_152245_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="334.28" ytl="382.13" xbr="422.50" ybr="467.04" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1054.42" ytl="390.29" xbr="1160.00" ybr="504.60" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="IMG_20230331_152451_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="420.83" ytl="414.79" xbr="695.17" ybr="697.29" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1034.82" ytl="375.60" xbr="1139.33" ybr="471.94" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="IMG_20230331_152456_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="469.82" ytl="352.70" xbr="548.20" ybr="432.80" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="1113.20" ytl="354.37" xbr="1158.93" ybr="454.00" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="IMG_20230331_152508_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="file" occluded="0" xtl="660.87" ytl="501.30" xbr="1160.00" ybr="872.00" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="180.78" ytl="373.96" xbr="282.03" ybr="470.31" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="433.89" ytl="380.49" xbr="548.20" ybr="493.17" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="954.81" ytl="382.13" xbr="1111.57" ybr="530.73" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="IMG_20230331_152519_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="file" occluded="0" xtl="1.16" ytl="377.23" xbr="87.71" ybr="530.80" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="1021.76" ytl="401.72" xbr="1160.00" ybr="643.40" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="500.80" ytl="357.60" xbr="611.88" ybr="470.31" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="IMG_20230331_152535_703.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="992.36" ytl="352.73" xbr="1057.68" ybr="414.79" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="641.28" ytl="365.80" xbr="794.80" ybr="537.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="871.52" ytl="351.10" xbr="928.68" ybr="409.89" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="IMG_20230331_152536_303.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="636.38" ytl="357.63" xbr="798.04" ybr="535.63" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="868.26" ytl="342.90" xbr="928.68" ybr="403.36" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="994.00" ytl="347.80" xbr="1056.05" ybr="408.25" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="IMG_20230331_152539_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="680.47" ytl="321.71" xbr="752.32" ybr="390.29" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1020.12" ytl="324.97" xbr="1088.80" ybr="388.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="891.12" ytl="320.08" xbr="954.90" ybr="383.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="554.73" ytl="347.83" xbr="742.52" ybr="537.30" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="IMG_20230331_152758_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="977.67" ytl="393.56" xbr="1091.97" ybr="494.80" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="581.35" ytl="380.98" xbr="653.20" ybr="461.00" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="833.97" ytl="378.86" xbr="899.29" ybr="439.28" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="482.88" ytl="401.80" xbr="647.80" ybr="569.92" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="IMG_20230331_152822_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="440.42" ytl="416.42" xbr="540.03" ybr="511.13" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="700.06" ytl="398.46" xbr="768.60" ybr="467.00" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="286.93" ytl="400.10" xbr="357.14" ybr="463.78" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="455.62" xbr="59.84" ybr="654.50" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="1.16" ytl="403.36" xbr="64.84" ybr="494.80" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="IMG_20230331_152833_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="manual" occluded="0" xtl="797.43" ytl="582.38" xbr="1160.00" ybr="869.77" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="642.91" ytl="403.36" xbr="763.75" ybr="524.19" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="IMG_20230331_152847_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="806.21" ytl="457.24" xbr="1160.00" ybr="832.82" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="664.14" ytl="382.10" xbr="776.81" ybr="498.00" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="IMG_20230331_152934_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="608.62" ytl="313.54" xbr="680.40" ybr="385.40" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="853.56" ytl="310.28" xbr="918.88" ybr="369.10" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="IMG_20230331_152939_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="432.26" ytl="298.85" xbr="500.80" ybr="364.20" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="162.82" ytl="305.40" xbr="251.00" ybr="388.66" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="IMG_20230331_152944_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="177.52" ytl="328.24" xbr="260.80" ybr="406.60" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="440.40" ytl="321.71" xbr="502.50" ybr="385.40" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="IMG_20230331_153202_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="936.84" ytl="324.97" xbr="1010.30" ybr="391.90" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="418.10" xbr="319.60" ybr="846.60" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="391.40" ytl="323.30" xbr="451.85" ybr="387.00" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="IMG_20230331_153228_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="974.40" ytl="307.00" xbr="1044.60" ybr="375.60" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="0.00" ytl="398.62" xbr="209.00" ybr="839.52" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="415.93" ytl="305.40" xbr="479.60" ybr="367.40" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="IMG_20230331_153238_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="manual" occluded="0" xtl="905.82" ytl="410.60" xbr="1160.00" ybr="648.30" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1091.38" ytl="375.86" xbr="1160.00" ybr="489.50" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="593.92" ytl="359.27" xbr="654.34" ybr="419.69" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="IMG_20230331_153252_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="2.79" ytl="442.50" xbr="175.90" ybr="597.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="931.94" ytl="463.78" xbr="1160.00" ybr="705.50" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="IMG_20230331_153253_331.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="931.94" ytl="463.78" xbr="1160.00" ybr="705.50" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="2.80" ytl="445.80" xbr="174.25" ybr="597.68" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="IMG_20230331_153256_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="930.31" ytl="481.70" xbr="1160.00" ybr="721.78" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="7.69" ytl="462.10" xbr="179.15" ybr="615.64" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="IMG_20230331_153335_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="989.10" ytl="297.21" xbr="1059.30" ybr="365.80" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="1.16" ytl="387.03" xbr="327.75" ybr="847.52" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="IMG_20230331_153545_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="502.50" ytl="375.60" xbr="559.70" ybr="436.00" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="251.00" ytl="388.66" xbr="347.35" ybr="483.37" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="753.95" ytl="387.00" xbr="830.70" ybr="462.10" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="IMG_20230331_153627_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="940.11" ytl="419.69" xbr="1008.70" ybr="481.74" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="687.00" ytl="427.85" xbr="783.35" ybr="522.56" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="IMG_20230331_153636_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="780.08" ytl="351.10" xbr="876.42" ybr="457.24" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="510.64" ytl="349.47" xbr="566.16" ybr="404.99" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="264.06" ytl="360.90" xbr="363.67" ybr="457.24" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="IMG_20230331_153651_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="550.32" xbr="205.28" ybr="788.73" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="IMG_20230331_153703_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="538.40" ytl="453.98" xbr="698.43" ybr="620.54" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="776.81" ytl="444.20" xbr="891.12" ybr="560.12" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="120.40" ytl="452.30" xbr="295.10" ybr="623.80" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="IMG_20230331_153711_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="273.90" ytl="429.40" xbr="466.55" ybr="620.54" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="789.88" ytl="414.79" xbr="951.54" ybr="578.08" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="2.79" ytl="418.05" xbr="138.33" ybr="574.82" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="IMG_20230331_153719_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="660.87" ytl="380.49" xbr="758.85" ybr="471.94" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="734.36" ytl="367.43" xbr="793.14" ybr="437.65" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="789.88" ytl="375.60" xbr="863.40" ybr="455.61" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="918.88" ytl="369.06" xbr="989.10" ybr="431.12" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="IMG_20230331_153930_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="659.25" ytl="370.08" xbr="751.11" ybr="464.21" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="971.10" ytl="361.01" xbr="1050.48" ybr="434.72" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="247.70" ytl="401.72" xbr="463.28" ybr="618.91" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1133.99" ytl="374.76" xbr="1160.00" ybr="454.53" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="IMG_20230331_153941_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="909.67" ytl="510.51" xbr="1072.31" ybr="673.15" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="451.14" ytl="488.96" xbr="537.36" ybr="577.14" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="547.74" xbr="366.88" ybr="872.00" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="1023.33" ytl="500.71" xbr="1129.14" ybr="616.33" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="IMG_20230331_153957_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="625.54" ytl="387.00" xbr="721.55" ybr="481.12" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1087.99" ytl="381.18" xbr="1160.00" ybr="471.32" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="927.30" ytl="377.26" xbr="1005.69" ybr="449.77" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="231.67" ytl="418.41" xbr="453.10" ybr="641.80" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="IMG_20230331_154003_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="408.61" xbr="82.74" ybr="520.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="449.18" ytl="398.82" xbr="525.60" ybr="475.24" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="745.10" ytl="402.74" xbr="852.84" ybr="510.51" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="315.93" ytl="396.86" xbr="386.47" ybr="461.52" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="IMG_20230331_154016_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="100.38" ytl="514.43" xbr="192.48" ybr="592.81" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="863.36" ytl="511.13" xbr="954.81" ybr="600.94" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="433.50" ytl="514.43" xbr="543.24" ybr="622.21" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="IMG_20230331_154021_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="863.36" ytl="503.00" xbr="958.07" ybr="594.40" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="432.26" ytl="504.60" xbr="540.00" ybr="617.27" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="95.87" ytl="501.33" xbr="187.32" ybr="587.88" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="IMG_20230331_154032_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="215.08" ytl="437.65" xbr="446.96" ybr="671.10" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="1120.88" ytl="399.90" xbr="1160.00" ybr="491.68" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="958.07" ytl="396.82" xbr="1034.80" ybr="468.67" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="642.91" ytl="405.00" xbr="740.90" ybr="501.30" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="IMG_20230331_154338_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="119.36" ytl="454.23" xbr="442.55" ybr="777.40" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="1045.48" ytl="398.80" xbr="1160.00" ybr="551.78" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="534.40" ytl="391.90" xbr="668.20" ybr="530.20" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="900.68" ytl="390.72" xbr="1001.60" ybr="491.60" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="IMG_20230331_154417_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="708.23" ytl="373.96" xbr="809.47" ybr="476.84" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="0.00" ytl="375.86" xbr="59.84" ybr="513.54" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="997.26" ytl="387.10" xbr="1149.13" ybr="520.93" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="959.70" ytl="367.43" xbr="1047.88" ybr="455.61" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="345.52" ytl="364.70" xbr="416.06" ybr="439.20" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="IMG_20230331_154427_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="112.20" ytl="413.15" xbr="195.48" ybr="491.54" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="753.95" ytl="416.42" xbr="837.23" ybr="499.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="788.24" ytl="431.12" xbr="915.61" ybr="560.12" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="513.91" ytl="413.15" xbr="615.15" ybr="524.19" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="IMG_20230331_154434_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="411.03" ytl="382.13" xbr="540.03" ybr="511.20" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="796.40" ytl="375.60" xbr="876.42" ybr="452.34" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="IMG_20230331_154454_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="698.43" ytl="468.67" xbr="802.94" ybr="568.28" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="239.57" ytl="506.23" xbr="482.88" ybr="747.91" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="92.60" ytl="465.41" xbr="198.75" ybr="565.02" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="IMG_20230331_154522_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="195.48" ytl="437.65" xbr="370.21" ybr="610.74" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="495.94" ytl="411.52" xbr="575.96" ybr="489.90" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="979.30" ytl="424.58" xbr="1109.90" ybr="543.79" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="IMG_20230331_154530_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="264.06" ytl="468.70" xbr="458.39" ybr="669.53" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="71.38" ytl="437.65" xbr="172.62" ybr="532.36" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="634.75" ytl="442.55" xbr="722.93" ybr="529.09" z_order="0">
+    </box>
+    <box label="esfera2" source="manual" occluded="0" xtl="986.40" ytl="529.10" xbr="1160.00" ybr="872.00" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="IMG_20230331_154735_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="355.51" ytl="439.28" xbr="481.20" ybr="563.39" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="234.67" ytl="444.20" xbr="414.30" ybr="633.60" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="IMG_20230331_154745_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="350.60" ytl="398.50" xbr="450.22" ybr="504.60" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="958.07" ytl="395.19" xbr="1067.48" ybr="494.80" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="491.05" ytl="403.40" xbr="608.62" ybr="529.10" z_order="0">
+    </box>
+    <box label="esfera" source="manual" occluded="0" xtl="2.79" ytl="503.50" xbr="360.40" ybr="869.90" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="IMG_20230331_154752_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="507.40" ytl="387.03" xbr="713.10" ybr="600.94" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="IMG_20230331_154839_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="966.24" ytl="351.10" xbr="1038.09" ybr="418.05" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="673.90" ytl="373.96" xbr="856.83" ybr="550.32" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="43.62" ytl="357.60" xbr="172.62" ybr="478.50" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="IMG_20230331_154849_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="446.96" ytl="385.39" xbr="703.33" ybr="646.70" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="IMG_20230331_154903_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="497.58" ytl="383.80" xbr="829.07" ybr="725.00" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="IMG_20230331_154908_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="373.47" ytl="434.38" xbr="585.76" ybr="654.83" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="IMG_20230331_155119_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="110.57" ytl="408.25" xbr="259.17" ybr="551.90" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="869.89" ytl="401.72" xbr="1008.69" ybr="530.73" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="1057.68" ytl="393.56" xbr="1139.33" ybr="467.04" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="IMG_20230331_155130_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="613.57" ytl="408.20" xbr="779.89" ybr="580.20" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="219.51" ytl="380.82" xbr="310.23" ybr="466.81" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="IMG_20230331_155205_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="740.89" ytl="375.60" xbr="873.16" ybr="499.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="20.20" ytl="410.30" xbr="345.93" ybr="719.74" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="IMG_20230331_155215_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="925.58" ytl="403.52" xbr="1087.24" ybr="552.12" z_order="0">
+    </box>
+    <box label="esfera2" source="file" occluded="0" xtl="389.97" ytl="496.60" xbr="946.80" ybr="872.00" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="IMG_20230331_155225_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="file" occluded="0" xtl="375.30" ytl="535.79" xbr="968.03" ybr="872.00" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="943.54" ytl="431.30" xbr="1108.50" ybr="591.30" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="IMG_20230331_155233_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera2" source="file" occluded="0" xtl="0.00" ytl="450.71" xbr="249.37" ybr="785.47" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="853.56" ytl="391.90" xbr="969.50" ybr="501.33" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="IMG_20230331_155249_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="25.33" ytl="407.44" xbr="235.00" ybr="597.52" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="713.13" ytl="381.96" xbr="815.03" ybr="483.80" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="IMG_20230331_155515_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="205.60" ytl="362.37" xbr="354.53" ybr="503.46" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="975.71" ytl="401.56" xbr="1160.00" ybr="668.06" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="334.94" ytl="346.69" xbr="393.72" ybr="413.32" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="622.99" ytl="352.57" xbr="717.05" ybr="444.67" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="IMG_20230331_155538_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="607.31" ytl="411.36" xbr="701.37" ybr="507.38" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="187.97" ytl="462.31" xbr="521.10" ybr="799.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="33.16" ytl="407.44" xbr="135.06" ybr="501.50" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="IMG_20230331_155605_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="403.52" xbr="72.40" ybr="493.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="544.60" ytl="407.44" xbr="654.34" ybr="509.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="818.94" ytl="399.60" xbr="891.45" ybr="477.98" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="IMG_20230331_155615_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="42.96" ytl="427.03" xbr="180.13" ybr="550.49" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="354.53" ytl="419.20" xbr="432.91" ybr="497.58" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="670.02" ytl="442.71" xbr="805.23" ybr="585.80" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="IMG_20230331_155637_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="0.00" ytl="462.30" xbr="123.30" ybr="634.70" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="579.88" ytl="442.71" xbr="666.10" ybr="534.80" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="IMG_20230331_155652_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="575.96" ytl="489.74" xbr="940.40" ybr="862.10" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="IMG_20230331_155717_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="125.26" ytl="354.53" xbr="207.60" ybr="432.90" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="889.49" ytl="354.53" xbr="967.90" ybr="429.00" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="458.40" ytl="354.53" xbr="595.60" ybr="503.46" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="IMG_20230331_160356_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="946.64" ytl="375.60" xbr="1021.76" ybr="452.34" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="976.03" ytl="391.90" xbr="1113.20" ybr="519.30" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="513.25" ytl="374.13" xbr="594.90" ybr="460.35" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="585.80" ytl="370.70" xbr="638.01" ybr="424.60" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="IMG_20230331_160421_9CS.jpg" subset="default" task_id="743898" width="1160" height="872">
+    <box label="esfera" source="file" occluded="0" xtl="107.79" ytl="412.01" xbr="311.91" ybr="607.97" z_order="0">
+    </box>
+    <box label="esfera" source="file" occluded="0" xtl="581.37" ytl="380.90" xbr="661.36" ybr="457.70" z_order="0">
+    </box>
+  </image>
+</annotations>
