@@ -1,3 +1,4 @@
+# Comparação de Filtros de Pré-Processamento para identificação de Esferas com Hough Circles na OBR
 Bem vindo!
 
 Me chamo Gustavo Chagas, desenvolvi esse projeto na disciplina de Processamento de Imagens 
